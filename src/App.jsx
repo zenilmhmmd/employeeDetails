@@ -5,7 +5,6 @@ import Display from './components/Display.jsx'
 const App = () => {
   return (
     <div>
-      <h1>EMPLOYEE</h1>
       <Add/>
       <Display/>
     </div>
